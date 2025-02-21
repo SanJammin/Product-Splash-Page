@@ -56,10 +56,11 @@ p {
    
 .intro { 
     color: #fff;
-    background-color: #9480e4;
     min-height: 250px;
     text-align: center;
     justify-content: center;
+    background: #9480e4 url(./images/intro-bg.png);
+    background-size: cover;
 }
 
 /* ====================
