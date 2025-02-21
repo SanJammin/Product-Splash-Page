@@ -94,6 +94,18 @@ p {
     .main-content {
         width: 50%;
     }
+    
+    h1 {
+        font-size: 5vw;
+    }
+    
+    h2 {
+        font-size: 2.625rem;
+    }
+    
+    .beta-text {
+        font-size: 1.25rem;
+    }
 
     .intro {
         min-height: 100vh;
