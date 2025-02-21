@@ -87,6 +87,11 @@ p {
     Form
    ================= */
    
+input {
+    width: 100%;
+    margin-bottom: 0.75em;
+    padding: 0.5em;
+}
 
 /* =================
     Media queries 
