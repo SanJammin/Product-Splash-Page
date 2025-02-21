@@ -46,7 +46,8 @@ p {
 .intro,
 .main-content {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
+    padding: 2.5em 2em 0;
 }
 
 /* =================
@@ -67,7 +68,6 @@ p {
 
 .main-content {
     align-items: center;
-    padding: 2.5em 2em 0;
 }
 
 .img-main {
