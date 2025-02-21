@@ -4,6 +4,12 @@ body {
     margin: 0;
 }
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 /* =================
     Typography 
    ================= */
@@ -176,6 +182,5 @@ input:focus {
 
     .main-content {
         justify-content: center;
-        padding-top: 0;
     }
 }
