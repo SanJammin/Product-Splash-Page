@@ -39,6 +39,15 @@ p {
     text-transform: uppercase;
 }
 
+.top-text {
+    font-size: 0.875rem;
+    font-weight: 900;
+    padding-top: 0.25em;
+    border-top: 5px solid;
+    order: -1;
+    margin: 0 auto;
+}
+
 .fine-print {
     font-size: 0.75rem;
     letter-spacing: 1px;
@@ -53,7 +62,7 @@ p {
 .main-content {
     display: flex;
     flex-direction: column; 
-    padding: 2.5em 2em 0;
+    padding: 0 2em;
 }
 
 /* =================
@@ -64,9 +73,10 @@ p {
     color: #fff;
     min-height: 250px;
     text-align: center;
-    justify-content: center;
+    justify-content: space-between;
     background: #9480e4 url(./images/intro-bg.png);
     background-size: cover;
+    padding-bottom: 1.5em;
 }
 
 /* ====================
