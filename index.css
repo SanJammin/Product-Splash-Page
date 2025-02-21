@@ -94,4 +94,13 @@ p {
     .main-content {
         width: 50%;
     }
+
+    .intro {
+        min-height: 100vh;
+    }
+
+    .main-content {
+        justify-content: center;
+        padding-top: 0;
+    }
 }
