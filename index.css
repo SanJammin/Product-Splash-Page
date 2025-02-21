@@ -26,12 +26,14 @@ p {
 
 .beta-text { 
     font-weight: 900;
+    text-transform: uppercase;
 }
 
 .subheading {
     color: #575757;
     font-weight: 900;
     margin-bottom: 0.5em;
+    text-transform: uppercase;
 }
 
 /* =================
