@@ -92,6 +92,10 @@ p {
     width: 120px;
 }
 
+.main-content p,
+form {
+    max-width: 450px;
+}
 
 /* =================
     Form
